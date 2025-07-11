@@ -1,53 +1,28 @@
-IPL-2025-Match-Analytics-Using-Python
-Data visualization and analysis of IPL 2025 season using Python And it's Libraries
-IPL 2025 Data Analysis Project
+IPL 2025 Data Analysis 🏏
 
-This project analyzes IPL 2025 match data using Python and Jupyter Notebook. The notebook includes performance breakdowns, team comparisons, venue trends, and winning patterns using real-world IPL datasets.
+This project analyzes IPL 2025 match data to extract insights using Python libraries like Pandas, Matplotlib, Seaborn, and Plotly.
 
----
+📂 Features:
+- Venue-wise match visualization on India map
+- Toss impact analysis
+- Top scorers and bowlers of the season
+- Interactive and static charts
+- IPL 2025 winner's journey & performance metrics
+
+📁 Dataset
+CSV file: `ipl_2025_matches.csv`
+
+🛠️ Tools Used
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Plotly Express
+
+📊 Output
+All visuals are saved in the `images/` folder.
 
 
-📁 Folder Structure
-ipl-data-analysis-2025/
-
-├── IPL_2025_Analysis.ipynb
-├── README.md
-├── dataset/
-│ └── ipl_2025_matches.csv
-├── images/
-│ └── [All plots and visual charts]
-├── requirements.txt
-
-
----
-
-## 📊 Features & Visuals
-
-- ✅ Team & Player Performance Analysis
-- ✅ Toss Decision Impact
-- ✅ Venue-based Win Patterns (Geo Map)
-- ✅ Highest Scorer & Best Bowler Highlights
-- ✅ Match Results Breakdown
-- ✅ Professional Visualizations (Seaborn, Matplotlib, Plotly)
-
----
-
-## 🔧 Tools & Libraries Used
-
-- **Python**
-- **Pandas**, **NumPy**
-- **Matplotlib**, **Seaborn**
-- **Plotly**
-- **Jupyter Notebook**
-
----
-
-## 📂 Dataset
-
-Located in the `dataset/` folder:
-- `ipl_2025_matches.csv` — Contains match-level stats like team names, scores, toss winners, best performers, and match results.
-
----
 
 ## Author
 
