@@ -28,7 +28,7 @@ All visuals are saved in the `images/` folder.
 
 - **Name:** Ayush Raj
 - **College:** 2nd Year B.Tech CSE @ BIT Mesra
-- **LinkedIn:** [linkedin.com/in/ayush-raj5522](www.linkedin.com/in/ayush-raj-98a34735a)
+- **LinkedIn:**(www.linkedin.com/in/ayush-raj-98a34735a)
 
 ---
 
