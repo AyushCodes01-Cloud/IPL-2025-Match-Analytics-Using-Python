@@ -6,8 +6,10 @@ This project analyzes IPL 2025 match data using Python and Jupyter Notebook. The
 
 ---
 
+
 📁 Folder Structure
 ipl-data-analysis-2025/
+
 ├── IPL_2025_Analysis.ipynb
 ├── README.md
 ├── dataset/
@@ -15,6 +17,7 @@ ipl-data-analysis-2025/
 ├── images/
 │ └── [All plots and visual charts]
 ├── requirements.txt
+
 
 ---
 
